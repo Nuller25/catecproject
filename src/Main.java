@@ -1,3 +1,5 @@
+
+//Салам алейкум обновил
 public class Main {
     public Main() {
     }
